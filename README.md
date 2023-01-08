@@ -1,6 +1,8 @@
 # pa4-template
 
-## You must pass your code from pa3 to this repository
+## Code passed from EC327PokemonGameV1 to this repository
+
+This repository contains the code for an Intro to Software Engineering course project. Please see project guidelines under file "PA4_fall22.pdf."
 
 The WildPokemon will start following a trainer if they're in the same location.
 This triggers the boolean member I added in the Trainer class, hasPokemon, to be true.
