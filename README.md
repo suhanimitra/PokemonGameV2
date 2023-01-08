@@ -1,6 +1,6 @@
 # pa4-template
 
-## Code passed from EC327PokemonGameV1 to this repository
+## Code passed from EC327PokemonGameV1 to this repository. This project contains a more developed version of the Pokemon game.
 
 This repository contains the code for an Intro to Software Engineering course project. Please see project guidelines under file "PA4_fall22.pdf."
 
